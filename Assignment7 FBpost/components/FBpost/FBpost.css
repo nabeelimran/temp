@@ -1,0 +1,18 @@
+.post{
+    width: 500px;
+    margin: auto auto;
+    background-color: #ccc;
+}
+.post-header{
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px;
+}
+.avatar{
+    margin-right: 8px;
+}
+.avatar img{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
